@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Dec 2021 21:13:55 at https://mivacuna.sispro.gov.co/MiVacuna/CDVCOL/ValCertDigVac?s=VTJGc2RHVmtYMThSZE1ZeTA0RGw0ZEtNd3VPdjlUWEdtQVJ0Mk4rNmVpSUxkTGRsZisrdEIvcHl6RStKeFhzZkhwQjFVdk5Xd040NVUvSUFpVFo4dUpjRG45WEhWbzUyd29rUzd4Zm1JY1E9 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://mivacuna.sispro.gov.co/MiVacuna/CDVCOL/ValCertDigVac?s=VTJGc2RHVmtYMThSZE1ZeTA0RGw0ZEtNd3VPdjlUWEdtQVJ0Mk4rNmVpSUxkTGRsZisrdEIvcHl6RStKeFhzZkhwQjFVdk5Xd040NVUvSUFpVFo4dUpjRG45WEhWbzUyd29rUzd4Zm1JY1E9 -O1 "C:\PAGINAS WEB\PRUEBA1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 6 links scanned, 5 files written (229522 bytes overall) [224297 bytes received at 6408 bytes/sec], 13856 bytes transferred using HTTP compression in 2 files, ratio 37%
+(No errors, 0 warnings, 0 messages)
